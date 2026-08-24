@@ -1,0 +1,14 @@
+# QGIS backups and temporary files
+*.qgz~
+*.qgs~
+*.qgs.bak
+*.qlr~
+
+# Raster sidecar/cache files
+*.aux.xml
+*.ovr
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
