@@ -98,3 +98,9 @@ The source metadata identifies these datasets as available under the **Open Gove
 ## Project Context
 
 Originally completed for **GEOG 181 — Designing Effective Maps** at the University of Waterloo and later reorganized as a standalone geospatial portfolio project.
+
+## Academic Integrity
+
+This repository contains university coursework shared for portfolio review and educational reference only. Copying, redistributing, or submitting this work as coursework is not permitted.
+
+See [ACADEMIC_INTEGRITY.md](ACADEMIC_INTEGRITY.md) for details.
